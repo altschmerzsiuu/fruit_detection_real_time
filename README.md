@@ -16,7 +16,10 @@ This project is a fruit classification system built using a pre-trained MobileNe
 2. Install the required dependencies:
    ```bash
    pip install tensorflow numpy matplotlib opencv-python
-3. Prepare your dataset:
+3. Dataset
+   - Datasets can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1qZf2YyMOeEhmGFyiiz-tP_UCaY53xzwt?usp=drive_link)
+
+4. Prepare your dataset:
    - Organize your images into `train` and `test` directories.
    - Example structure:
      ```bash
